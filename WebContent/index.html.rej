@@ -1,0 +1,9 @@
+diff a/WebContent/index.html b/WebContent/index.html	(rejected hunks)
+@@ -5,6 +5,7 @@
+ <title>Hello World</title>
+ </head>
+ <body>
++<h1>Hello World chnage</h1>
+ 
+ 
+ </body>
